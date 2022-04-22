@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{388cb49d-5e60-448f-abe8-67d82cc443f2}</ProjectGuid>
-    <RootNamespace>Punteros</RootNamespace>
+    <ProjectGuid>{e37459f9-8840-4b3c-bd3c-94abea05d256}</ProjectGuid>
+    <RootNamespace>Estructuras</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,35 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Punteros.cpp" />
+    <ClCompile Include="Estructuras.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Hoja 1 (varios ejercicios).h" />
-    <ClInclude Include="Hoja 1.1.h" />
-    <ClInclude Include="Hoja 1.15.h" />
-    <ClInclude Include="Hoja 1.16.h" />
-    <ClInclude Include="Hoja 1.17.h" />
-    <ClInclude Include="Hoja 1.20.h" />
-    <ClInclude Include="Hoja 1.21.h" />
-    <ClInclude Include="Hoja 1.29.h" />
-    <ClInclude Include="Hoja 1.3.h" />
-    <ClInclude Include="Hoja 1.5.h" />
-    <ClInclude Include="Hoja 1.6.h" />
-    <ClInclude Include="Hoja 1.8 puntero real.h" />
-    <ClInclude Include="Hoja 1.8.h" />
-    <ClInclude Include="Hoja 2.1.h" />
-    <ClInclude Include="Hoja 2.2.h" />
-    <ClInclude Include="Hoja 4.1.h" />
-    <ClInclude Include="Hoja 4.2.h" />
-    <ClInclude Include="Hoja 5.1.h" />
-    <ClInclude Include="Hoja 5.2 %28delete%29.h" />
-    <ClInclude Include="Hoja 6.1 %28delete%29.h" />
-    <ClInclude Include="Hoja 6.2.h" />
-    <ClInclude Include="Hoja 6.3 %28delete%29.h" />
-    <ClInclude Include="Hoja 7.1.h" />
-    <ClInclude Include="Hoja 7.2.h" />
-    <ClInclude Include="Hoja 7.3.h" />
-    <ClInclude Include="Memoria Dinamica.h" />
+    <ClInclude Include="Estructuras Selectivas.h" />
+    <ClInclude Include="Funcion (toupper).h" />
+    <ClInclude Include="Funcion %28trunc%29.h" />
+    <ClInclude Include="Struct.h" />
+    <ClInclude Include="Switch.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
